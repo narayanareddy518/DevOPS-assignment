@@ -12,7 +12,7 @@
   "dependencies": {
     "bunyan": "^1.8.12",
     "cluster": "^0.7.7",
-    "config": "^1.27.0",
+    "config": "^3.3.8",
     "fs": "0.0.1-security",
     "hapi": "^16.6.2",
     "hapi-cors-headers": "^1.0.0",
